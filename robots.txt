@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://candicej889.github.io/workout-gym/sitemapx.xml
